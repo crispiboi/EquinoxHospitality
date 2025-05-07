@@ -1,7 +1,19 @@
 {
   "name": "CallingCard3UnfilledEvidence",
   "fileType": "EvidencePreset",
-  "copyFrom": "EvidencePreset|CrumpledNameCipher",
+  "copyFrom": "REF:EvidencePreset|BusinessCard",
   "presetName": "CallingCard3UnfilledEvidence",
-  "ddsDocumentID": "f85ce80f-ff93-4f8f-88b7-761131c08202"
+  "ddsDocumentID": "725114a2-4a9f-4aea-b57f-05c1ae13d072",
+  "factSetup": [
+    {
+      "preset": "REF:FactPreset|FoundAt",
+      "link": 5,
+      "onlyIfInOwnedPosition": 0,
+      "createOnDiscovery": 1,
+      "forceDiscoveryOnCreation": 0,
+      "switchFindingFactToFrom": 0
+    }
+  ],
+  "addFactLinks": [],
+  "keyMergeOnDiscovery": []
 }

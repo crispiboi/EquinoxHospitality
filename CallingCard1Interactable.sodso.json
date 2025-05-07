@@ -4,5 +4,12 @@
   "copyFrom": "REF:InteractablePreset|BusinessCardKiller",
   "presetName": "CallingCard1Interactable",
   "spawnEvidence": "REF:EvidencePreset|CallingCard1Evidence",
-  "summaryMessageSource": "faf54386-13a2-4acc-bada-8c9c39395b2c"
+  "summaryMessageSource": "faf54386-13a2-4acc-bada-8c9c39395b2c",
+  "subObjectClasses": [
+    "REF:SubObjectClassPreset|Alcohol"
+  ],
+  "backupClasses": [],
+  "attemptToStoreInFolder": null,
+  "folderPlacementChance": 1,
+  "fingerprintsEnabled": true
 }

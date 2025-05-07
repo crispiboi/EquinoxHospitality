@@ -1,7 +1,26 @@
 {
   "name": "TargetEnvelopeEvidence",
   "fileType": "EvidencePreset",
-  "copyFrom": "EvidencePreset|CrumpledNameCipher",
+  "copyFrom": "REF:EvidencePreset|FieldsLetter",
   "presetName": "TargetEnvelopeEvidence",
-  "ddsDocumentID": "f85ce80f-ff93-4f8f-88b7-761131c08202"
+  "ddsDocumentID": "518b191e-0ae7-4491-838b-1c24dd154aec",
+  "factSetup": [
+    {
+      "preset": "REF:FactPreset|FoundAt",
+      "link": 5,
+      "onlyIfInOwnedPosition": 0,
+      "createOnDiscovery": 1,
+      "forceDiscoveryOnCreation": 0,
+      "switchFindingFactToFrom": 0
+    }
+  ],
+  "addFactLinks": [],
+  "keyMergeOnDiscovery": [
+    {
+      "link": 2,
+      "mergeKeys": [
+        34
+      ]
+    }
+  ]
 }

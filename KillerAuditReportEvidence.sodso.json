@@ -1,7 +1,34 @@
 {
   "name": "KillerAuditReportEvidence",
   "fileType": "EvidencePreset",
-  "copyFrom": "EvidencePreset|CrumpledNameCipher",
+  "copyFrom": "REF:EvidencePreset|CrumpledPaper",
   "presetName": "KillerAuditReportEvidence",
-  "ddsDocumentID": "f85ce80f-ff93-4f8f-88b7-761131c08202"
+  "ddsDocumentID": "91cdfe44-de3e-4c25-829c-915dbc929ed3",
+  "factSetup": [
+    {
+      "preset": "REF:FactPreset|FoundAt",
+      "link": 5,
+      "onlyIfInOwnedPosition": 0,
+      "createOnDiscovery": 1,
+      "forceDiscoveryOnCreation": 0,
+      "switchFindingFactToFrom": 0
+    }
+  ],
+  "keyMergeOnDiscovery": [
+    {
+      "link": 1,
+      "mergeKeys": [
+        15,
+        17
+      ]
+    }
+  ],
+  "addFactLinks": [
+    {
+      "subject": 0,
+      "factDictionary": "",
+      "key": 15,
+      "discovery": 1
+    }
+  ]
 }

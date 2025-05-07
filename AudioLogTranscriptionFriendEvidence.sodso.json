@@ -1,7 +1,19 @@
 {
   "name": "AudioLogTranscriptionFriendEvidence",
   "fileType": "EvidencePreset",
-  "copyFrom": "EvidencePreset|CrumpledNameCipher",
+  "copyFrom": "REF:EvidencePreset|Receipt",
   "presetName": "AudioLogTranscriptionFriendEvidence",
-  "ddsDocumentID": "f85ce80f-ff93-4f8f-88b7-761131c08202"
+  "ddsDocumentID": "fe6d6438-6d8b-4fd5-8001-34b06c37950c",
+  "addFactLinks": [],
+  "keyMergeOnDiscovery": [],
+  "factSetup": [
+    {
+      "preset": "REF:FactPreset|FoundAt",
+      "link": 5,
+      "onlyIfInOwnedPosition": 0,
+      "createOnDiscovery": 1,
+      "forceDiscoveryOnCreation": 0,
+      "switchFindingFactToFrom": 0
+    }
+  ]
 }

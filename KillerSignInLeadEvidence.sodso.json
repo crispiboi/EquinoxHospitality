@@ -1,7 +1,19 @@
 {
   "name": "KillerSignInLeadEvidence",
   "fileType": "EvidencePreset",
-  "copyFrom": "EvidencePreset|CrumpledNameCipher",
+  "copyFrom": "REF:EvidencePreset|CrumpledPaper",
   "presetName": "KillerSignInLeadEvidence",
-  "ddsDocumentID": "f85ce80f-ff93-4f8f-88b7-761131c08202"
+  "ddsDocumentID": "4641a6ae-c917-4656-9e5a-c18feba127f5",
+  "factSetup": [
+    {
+      "preset": "REF:FactPreset|FoundAt",
+      "link": 5,
+      "onlyIfInOwnedPosition": 0,
+      "createOnDiscovery": 1,
+      "forceDiscoveryOnCreation": 0,
+      "switchFindingFactToFrom": 0
+    }
+  ],
+  "addFactLinks": [],
+  "keyMergeOnDiscovery": []
 }
