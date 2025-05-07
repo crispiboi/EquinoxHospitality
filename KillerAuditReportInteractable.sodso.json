@@ -1,8 +1,21 @@
 {
   "name": "KillerAuditReportInteractable",
   "fileType": "InteractablePreset",
-  "copyFrom": "InteractablePreset|CrumpledPaperNameCypher",
+  "copyFrom": "REF:InteractablePreset|CrumpledPaper",
   "presetName": "KillerAuditReportInteractable",
   "spawnEvidence": "REF:EvidencePreset|KillerAuditReportEvidence",
-  "summaryMessageSource": "91cdfe44-de3e-4c25-829c-915dbc929ed3"
+  "summaryMessageSource": "91cdfe44-de3e-4c25-829c-915dbc929ed3",
+  "subObjectClasses": [
+    "REF:SubObjectClassPreset|TabletopItemGeneric"
+  ],
+  "backupClasses": [
+    "REF:SubObjectClassPreset|Junk",
+    "REF:SubObjectClassPreset|JunkFloor"
+  ],
+  "attemptToStoreInFolder": "REF:EvidencePreset|HomeFile",
+  "folderPlacementChance": 0.5,
+  "useSubSpawning": 1,
+  "fingerprintsEnabled": true,
+  "fingerprintDensity": 3,
+  "enableDynamicFingerprints": true
 }

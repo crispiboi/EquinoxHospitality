@@ -4,5 +4,16 @@
   "copyFrom": "InteractablePreset|CrumpledPaperNameCypher",
   "presetName": "VictimSecurityWarningInteractable",
   "spawnEvidence": "REF:EvidencePreset|VictimSecurityWarningEvidence",
-  "summaryMessageSource": "13f923af-c61f-48b7-96d4-823436e57d32"
+  "summaryMessageSource": "13f923af-c61f-48b7-96d4-823436e57d32",
+  "subObjectClasses": [],
+  "backupClasses": [
+    "REF:SubObjectClassPreset|Junk",
+    "REF:SubObjectClassPreset|JunkFloor"
+  ],
+  "attemptToStoreInFolder": null,
+  "folderPlacementChance": 0.5,
+  "useSubSpawning": 1,
+  "fingerprintsEnabled": true,
+  "fingerprintDensity": 3,
+  "enableDynamicFingerprints": true
 }

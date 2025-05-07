@@ -4,5 +4,16 @@
   "copyFrom": "REF:InteractablePreset|BusinessCardKiller",
   "presetName": "CallingCard2MessyInteractable",
   "spawnEvidence": "REF:EvidencePreset|CallingCard2MessyEvidence",
-  "summaryMessageSource": "18246478-258d-468d-8ec8-752970743d1f"
+  "summaryMessageSource": "18246478-258d-468d-8ec8-752970743d1f",
+  "subObjectClasses": [],
+  "backupClasses": [
+    "REF:SubObjectClassPreset|Junk",
+    "REF:SubObjectClassPreset|JunkFloor"
+  ],
+  "attemptToStoreInFolder": null,
+  "folderPlacementChance": 0.5,
+  "useSubSpawning": 1,
+  "fingerprintsEnabled": true,
+  "fingerprintDensity": 3,
+  "enableDynamicFingerprints": true
 }

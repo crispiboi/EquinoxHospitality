@@ -1,0 +1,1 @@
+{"name":"CallingCard1015","id":"ba94c417-2d15-4c48-a161-2f26d03120a4","blocks":[{"blockID":"38a6c705-b4c4-40cb-9b94-904bccce7219","instanceID":"a971f6fb-a976-4404-a688-1bdaee19033a","alwaysDisplay":true,"group":0,"forceScope":0,"useTraits":false,"traitConditions":0,"traits":[]}]}

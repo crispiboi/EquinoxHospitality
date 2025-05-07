@@ -4,5 +4,18 @@
   "copyFrom": "InteractablePreset|CrumpledPaperNameCypher",
   "presetName": "KillerMemoMisroutedInteractable",
   "spawnEvidence": "REF:EvidencePreset|KillerMemoMisroutedEvidence",
-  "summaryMessageSource": "16b7bd6e-63c5-41b8-8b2c-2f28e8f09320"
+  "summaryMessageSource": "16b7bd6e-63c5-41b8-8b2c-2f28e8f09320",
+  "subObjectClasses": [
+    "REF:SubObjectClassPreset|DrawerItemGeneric"
+  ],
+  "backupClasses": [
+    "REF:SubObjectClassPreset|Junk",
+    "REF:SubObjectClassPreset|JunkFloor"
+  ],
+  "attemptToStoreInFolder": "REF:EvidencePreset|Bin",
+  "folderPlacementChance": 0.74,
+  "useSubSpawning": 1,
+  "fingerprintsEnabled": true,
+  "fingerprintDensity": 3,
+  "enableDynamicFingerprints": true
 }

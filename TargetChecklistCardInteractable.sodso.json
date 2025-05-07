@@ -1,8 +1,22 @@
 {
   "name": "TargetChecklistCardInteractable",
   "fileType": "InteractablePreset",
-  "copyFrom": "InteractablePreset|CrumpledPaperNameCypher",
+  "copyFrom": "REF:InteractablePreset|CrumpledPaper",
   "presetName": "TargetChecklistCardInteractable",
   "spawnEvidence": "REF:EvidencePreset|TargetChecklistCardEvidence",
-  "summaryMessageSource": "acbc11f0-5204-4264-b71d-924618e00a6e"
+  "summaryMessageSource": "acbc11f0-5204-4264-b71d-924618e00a6e",
+  "subObjectClasses": [
+    "REF:SubObjectClassPreset|KitchenBin",
+    "REF:SubObjectClassPreset|DrawerItemGeneric"
+  ],
+  "backupClasses": [
+    "REF:SubObjectClassPreset|Junk",
+    "REF:SubObjectClassPreset|JunkFloor"
+  ],
+  "attemptToStoreInFolder": "REF:EvidencePreset|Bin",
+  "folderPlacementChance": 0.5,
+  "useSubSpawning": 1,
+  "fingerprintsEnabled": true,
+  "fingerprintDensity": 3,
+  "enableDynamicFingerprints": true
 }

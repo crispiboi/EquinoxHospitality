@@ -5,11 +5,15 @@
   "presetName": "CallingCard1Interactable",
   "spawnEvidence": "REF:EvidencePreset|CallingCard1Evidence",
   "summaryMessageSource": "faf54386-13a2-4acc-bada-8c9c39395b2c",
-  "subObjectClasses": [
-    "REF:SubObjectClassPreset|Alcohol"
+  "subObjectClasses": [],
+  "backupClasses": [
+    "REF:SubObjectClassPreset|Junk",
+    "REF:SubObjectClassPreset|JunkFloor"
   ],
-  "backupClasses": [],
   "attemptToStoreInFolder": null,
-  "folderPlacementChance": 1,
-  "fingerprintsEnabled": true
+  "folderPlacementChance": 0.5,
+  "useSubSpawning": 1,
+  "fingerprintsEnabled": true,
+  "fingerprintDensity": 3,
+  "enableDynamicFingerprints": true
 }

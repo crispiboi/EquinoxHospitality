@@ -4,5 +4,16 @@
   "copyFrom": "InteractablePreset|CrumpledPaperNameCypher",
   "presetName": "SmallKillerLeadCardInteractable",
   "spawnEvidence": "REF:EvidencePreset|SmallKillerLeadCardEvidence",
-  "summaryMessageSource": "08b4bed7-f2eb-4255-8922-3d10dbfb4b51"
+  "summaryMessageSource": "08b4bed7-f2eb-4255-8922-3d10dbfb4b51",
+  "subObjectClasses": [],
+  "backupClasses": [
+    "REF:SubObjectClassPreset|Junk",
+    "REF:SubObjectClassPreset|JunkFloor"
+  ],
+  "attemptToStoreInFolder": null,
+  "folderPlacementChance": 0.5,
+  "useSubSpawning": 1,
+  "fingerprintsEnabled": true,
+  "fingerprintDensity": 3,
+  "enableDynamicFingerprints": true
 }

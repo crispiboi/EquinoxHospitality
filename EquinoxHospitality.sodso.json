@@ -199,7 +199,7 @@
       "writer": 2,
       "receiver": 1,
       "vmailOtherParticipants": [],
-      "where": 0,
+      "where": 2,
       "security": 0,
       "priority": 0,
       "ownershipRule": 3
@@ -231,7 +231,7 @@
       "writer": 2,
       "receiver": 1,
       "vmailOtherParticipants": [],
-      "where": 0,
+      "where": 3,
       "security": 0,
       "priority": 0,
       "ownershipRule": 3
@@ -263,7 +263,7 @@
       "writer": 2,
       "receiver": 1,
       "vmailOtherParticipants": [],
-      "where": 0,
+      "where": 3,
       "security": 0,
       "priority": 0,
       "ownershipRule": 3
@@ -295,7 +295,7 @@
       "writer": 2,
       "receiver": 1,
       "vmailOtherParticipants": [],
-      "where": 0,
+      "where": 1,
       "security": 0,
       "priority": 0,
       "ownershipRule": 3
@@ -327,10 +327,10 @@
       "writer": 2,
       "receiver": 1,
       "vmailOtherParticipants": [],
-      "where": 0,
+      "where": 1,
       "security": 0,
       "priority": 0,
-      "ownershipRule": 3
+      "ownershipRule": 2
     },
     {
       "compatibleWithMotives": [
@@ -359,10 +359,10 @@
       "writer": 2,
       "receiver": 1,
       "vmailOtherParticipants": [],
-      "where": 0,
+      "where": 1,
       "security": 0,
       "priority": 0,
-      "ownershipRule": 3
+      "ownershipRule": 2
     },
     {
       "compatibleWithMotives": [
@@ -455,10 +455,10 @@
       "writer": 0,
       "receiver": 0,
       "vmailOtherParticipants": [],
-      "where": 0,
+      "where": 3,
       "security": 0,
       "priority": 0,
-      "ownershipRule": 3
+      "ownershipRule": 4
     },
     {
       "compatibleWithMotives": [
@@ -487,10 +487,10 @@
       "writer": 1,
       "receiver": 2,
       "vmailOtherParticipants": [],
-      "where": 0,
+      "where": 1,
       "security": 0,
       "priority": 0,
-      "ownershipRule": 3
+      "ownershipRule": 4
     },
     {
       "compatibleWithMotives": [
@@ -519,10 +519,10 @@
       "writer": 1,
       "receiver": 2,
       "vmailOtherParticipants": [],
-      "where": 0,
+      "where": 1,
       "security": 0,
       "priority": 0,
-      "ownershipRule": 3
+      "ownershipRule": 4
     }
   ],
   "graffiti": [],
@@ -540,14 +540,14 @@
       "item": "REF:InteractablePreset|CallingCard2MessyInteractable",
       "origin": 0,
       "randomScoreRange": {
-        "x": 0,
-        "y": 0
+        "x": 1,
+        "y": 6
       },
       "traitModifiers": []
     }
   ],
   "playerTaunts": [],
   "fileType": "MurderMO",
-  "name": "TestHitmanJob",
+  "name": "EquinoxHospitality",
   "copyFrom": null
 }

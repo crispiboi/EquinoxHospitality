@@ -4,5 +4,16 @@
   "copyFrom": "InteractablePreset|CrumpledPaperNameCypher",
   "presetName": "CallingCard4FakeInteractable",
   "spawnEvidence": "REF:EvidencePreset|CallingCard4FakeEvidence",
-  "summaryMessageSource": "5ebe8b25-4e9f-4887-a9af-90899a118a83"
+  "summaryMessageSource": "5ebe8b25-4e9f-4887-a9af-90899a118a83",
+  "subObjectClasses": [],
+  "backupClasses": [
+    "REF:SubObjectClassPreset|Junk",
+    "REF:SubObjectClassPreset|JunkFloor"
+  ],
+  "attemptToStoreInFolder": null,
+  "folderPlacementChance": 0.5,
+  "useSubSpawning": 1,
+  "fingerprintsEnabled": true,
+  "fingerprintDensity": 3,
+  "enableDynamicFingerprints": true
 }

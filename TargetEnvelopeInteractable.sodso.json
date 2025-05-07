@@ -4,5 +4,16 @@
   "copyFrom": "InteractablePreset|CrumpledPaperNameCypher",
   "presetName": "TargetEnvelopeInteractable",
   "spawnEvidence": "REF:EvidencePreset|TargetEnvelopeEvidence",
-  "summaryMessageSource": "518b191e-0ae7-4491-838b-1c24dd154aec"
+  "summaryMessageSource": "518b191e-0ae7-4491-838b-1c24dd154aec",
+  "subObjectClasses": [],
+  "backupClasses": [
+    "REF:SubObjectClassPreset|Junk",
+    "REF:SubObjectClassPreset|JunkFloor"
+  ],
+  "attemptToStoreInFolder": null,
+  "folderPlacementChance": 0.5,
+  "useSubSpawning": 1,
+  "fingerprintsEnabled": true,
+  "fingerprintDensity": 3,
+  "enableDynamicFingerprints": true
 }

@@ -33,6 +33,7 @@
   "REF:VictimCoworkerWarningInteractable",
   "REF:VictimSecurityWarningEvidence",
   "REF:VictimSecurityWarningInteractable",
+  "REF:HitmanMurderPreset",
   "REF:EquinoxHospitality"
   ],
   "loadBefore": "",
