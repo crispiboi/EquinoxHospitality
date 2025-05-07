@@ -76,457 +76,476 @@
   "monkierDDSMessageList": "",
   "confessionalDDSResponses": [],
   "MOleads": [
-  {
-    "compatibleWithMotives": [
-      "REF:MurderMO|EquinoxHospitality"
-    ],
-    "name": "AudioLogTranscriptionFriendInteractable",
-    "compatibleWithAllMotives": 0,
-    "spawnOnPhase": 2,
-    "tryToSpawnWithEachNewMurder": 0,
-    "belongsTo": 0,
-    "chance": 1,
-    "useTraits": 0,
-    "traitModifiers": [],
-    "useIf": 0,
-    "ifTag": 0,
-    "useOrGroup": 0,
-    "orGroup": 0,
-    "chanceRatio": 0,
-    "itemTag": 2,
-    "spawnItem": "REF:InteractablePreset|AudioLogTranscriptionFriendInteractable",
-    "vmailThread": "",
-    "vmailProgressThreshold": {
-      "x": 0,
-      "y": 0
+    {
+      "compatibleWithMotives": [
+        "REF:MurderMO|EquinoxHospitality"
+      ],
+      "name": "AudioLogTranscriptionFriendInteractable",
+      "compatibleWithAllMotives": 0,
+      "spawnOnPhase": 2,
+      "tryToSpawnWithEachNewMurder": 0,
+      "belongsTo": 0,
+      "chance": 1,
+      "useTraits": 0,
+      "traitModifiers": [],
+      "useIf": 0,
+      "ifTag": 0,
+      "useOrGroup": 0,
+      "orGroup": 0,
+      "chanceRatio": 0,
+      "itemTag": 2,
+      "spawnItem": "REF:InteractablePreset|AudioLogTranscriptionFriendInteractable",
+      "vmailThread": "",
+      "vmailProgressThreshold": {
+        "x": 0,
+        "y": 0
+      },
+      "writer": 0,
+      "receiver": 0,
+      "vmailOtherParticipants": [],
+      "where": 0,
+      "security": 0,
+      "priority": 0,
+      "ownershipRule": 3
     },
-    "writer": 0,
-    "receiver": 0,
-    "vmailOtherParticipants": [],
-    "where": 0,
-    "security": 0,
-    "priority": 0,
-    "ownershipRule": 3
-  },
-  {
-    "compatibleWithMotives": [
-      "REF:MurderMO|EquinoxHospitality"
-    ],
-    "name": "CallingCard3UnfilledInteractable",
-    "compatibleWithAllMotives": 0,
-    "spawnOnPhase": 2,
-    "tryToSpawnWithEachNewMurder": 0,
-    "belongsTo": 0,
-    "chance": 1,
-    "useTraits": 0,
-    "traitModifiers": [],
-    "useIf": 0,
-    "ifTag": 0,
-    "useOrGroup": 0,
-    "orGroup": 0,
-    "chanceRatio": 0,
-    "itemTag": 3,
-    "spawnItem": "REF:InteractablePreset|CallingCard3UnfilledInteractable",
-    "vmailThread": "",
-    "vmailProgressThreshold": {
-      "x": 0,
-      "y": 0
+    {
+      "compatibleWithMotives": [
+        "REF:MurderMO|EquinoxHospitality"
+      ],
+      "name": "CallingCard3UnfilledInteractable",
+      "compatibleWithAllMotives": 0,
+      "spawnOnPhase": 2,
+      "tryToSpawnWithEachNewMurder": 0,
+      "belongsTo": 0,
+      "chance": 1,
+      "useTraits": 0,
+      "traitModifiers": [],
+      "useIf": 0,
+      "ifTag": 0,
+      "useOrGroup": 0,
+      "orGroup": 0,
+      "chanceRatio": 0,
+      "itemTag": 3,
+      "spawnItem": "REF:InteractablePreset|CallingCard3UnfilledInteractable",
+      "vmailThread": "",
+      "vmailProgressThreshold": {
+        "x": 0,
+        "y": 0
+      },
+      "writer": 0,
+      "receiver": 0,
+      "vmailOtherParticipants": [],
+      "where": 0,
+      "security": 0,
+      "priority": 0,
+      "ownershipRule": 3
     },
-    "writer": 0,
-    "receiver": 0,
-    "vmailOtherParticipants": [],
-    "where": 0,
-    "security": 0,
-    "priority": 0,
-    "ownershipRule": 3
-  },
-  {
-    "compatibleWithMotives": [
-      "REF:MurderMO|EquinoxHospitality"
-    ],
-    "name": "CallingCard4FakeInteractable",
-    "compatibleWithAllMotives": 0,
-    "spawnOnPhase": 2,
-    "tryToSpawnWithEachNewMurder": 0,
-    "belongsTo": 0,
-    "chance": 1,
-    "useTraits": 0,
-    "traitModifiers": [],
-    "useIf": 0,
-    "ifTag": 0,
-    "useOrGroup": 0,
-    "orGroup": 0,
-    "chanceRatio": 0,
-    "itemTag": 4,
-    "spawnItem": "REF:InteractablePreset|CallingCard4FakeInteractable",
-    "vmailThread": "",
-    "vmailProgressThreshold": {
-      "x": 0,
-      "y": 0
+    {
+      "compatibleWithMotives": [
+        "REF:MurderMO|EquinoxHospitality"
+      ],
+      "name": "CallingCard4FakeInteractable",
+      "compatibleWithAllMotives": 0,
+      "spawnOnPhase": 2,
+      "tryToSpawnWithEachNewMurder": 0,
+      "belongsTo": 0,
+      "chance": 1,
+      "useTraits": 0,
+      "traitModifiers": [],
+      "useIf": 0,
+      "ifTag": 0,
+      "useOrGroup": 0,
+      "orGroup": 0,
+      "chanceRatio": 0,
+      "itemTag": 4,
+      "spawnItem": "REF:InteractablePreset|CallingCard4FakeInteractable",
+      "vmailThread": "",
+      "vmailProgressThreshold": {
+        "x": 0,
+        "y": 0
+      },
+      "writer": 0,
+      "receiver": 0,
+      "vmailOtherParticipants": [],
+      "where": 0,
+      "security": 0,
+      "priority": 0,
+      "ownershipRule": 3
     },
-    "writer": 0,
-    "receiver": 0,
-    "vmailOtherParticipants": [],
-    "where": 0,
-    "security": 0,
-    "priority": 0,
-    "ownershipRule": 3
-  },
-  {
-    "compatibleWithMotives": [
-      "REF:MurderMO|EquinoxHospitality"
-    ],
-    "name": "KillerAgencyIDInteractable",
-    "compatibleWithAllMotives": 0,
-    "spawnOnPhase": 2,
-    "tryToSpawnWithEachNewMurder": 0,
-    "belongsTo": 0,
-    "chance": 1,
-    "useTraits": 0,
-    "traitModifiers": [],
-    "useIf": 0,
-    "ifTag": 0,
-    "useOrGroup": 0,
-    "orGroup": 0,
-    "chanceRatio": 0,
-    "itemTag": 5,
-    "spawnItem": "REF:InteractablePreset|KillerAgencyIDInteractable",
-    "vmailThread": "",
-    "vmailProgressThreshold": {
-      "x": 0,
-      "y": 0
+    {
+      "compatibleWithMotives": [
+        "REF:MurderMO|EquinoxHospitality"
+      ],
+      "name": "KillerAgencyIDInteractable",
+      "compatibleWithAllMotives": 0,
+      "spawnOnPhase": 2,
+      "tryToSpawnWithEachNewMurder": 0,
+      "belongsTo": 0,
+      "chance": 1,
+      "useTraits": 0,
+      "traitModifiers": [],
+      "useIf": 0,
+      "ifTag": 0,
+      "useOrGroup": 0,
+      "orGroup": 0,
+      "chanceRatio": 0,
+      "itemTag": 5,
+      "spawnItem": "REF:InteractablePreset|KillerAgencyIDInteractable",
+      "vmailThread": "",
+      "vmailProgressThreshold": {
+        "x": 0,
+        "y": 0
+      },
+      "writer": 2,
+      "receiver": 1,
+      "vmailOtherParticipants": [],
+      "where": 0,
+      "security": 0,
+      "priority": 0,
+      "ownershipRule": 3
     },
-    "writer": 2,
-    "receiver": 1,
-    "vmailOtherParticipants": [],
-    "where": 0,
-    "security": 0,
-    "priority": 0,
-    "ownershipRule": 3
-  },
-  {
-    "compatibleWithMotives": [
-      "REF:MurderMO|EquinoxHospitality"
-    ],
-    "name": "KillerAuditReportInteractable",
-    "compatibleWithAllMotives": 0,
-    "spawnOnPhase": 2,
-    "tryToSpawnWithEachNewMurder": 0,
-    "belongsTo": 0,
-    "chance": 1,
-    "useTraits": 0,
-    "traitModifiers": [],
-    "useIf": 0,
-    "ifTag": 0,
-    "useOrGroup": 0,
-    "orGroup": 0,
-    "chanceRatio": 0,
-    "itemTag": 6,
-    "spawnItem": "REF:InteractablePreset|KillerAuditReportInteractable",
-    "vmailThread": "",
-    "vmailProgressThreshold": {
-      "x": 0,
-      "y": 0
+    {
+      "compatibleWithMotives": [
+        "REF:MurderMO|EquinoxHospitality"
+      ],
+      "name": "KillerAuditReportInteractable",
+      "compatibleWithAllMotives": 0,
+      "spawnOnPhase": 2,
+      "tryToSpawnWithEachNewMurder": 0,
+      "belongsTo": 0,
+      "chance": 1,
+      "useTraits": 0,
+      "traitModifiers": [],
+      "useIf": 0,
+      "ifTag": 0,
+      "useOrGroup": 0,
+      "orGroup": 0,
+      "chanceRatio": 0,
+      "itemTag": 6,
+      "spawnItem": "REF:InteractablePreset|KillerAuditReportInteractable",
+      "vmailThread": "",
+      "vmailProgressThreshold": {
+        "x": 0,
+        "y": 0
+      },
+      "writer": 2,
+      "receiver": 1,
+      "vmailOtherParticipants": [],
+      "where": 0,
+      "security": 0,
+      "priority": 0,
+      "ownershipRule": 3
     },
-    "writer": 2,
-    "receiver": 1,
-    "vmailOtherParticipants": [],
-    "where": 0,
-    "security": 0,
-    "priority": 0,
-    "ownershipRule": 3
-  },
-  {
-    "compatibleWithMotives": [
-      "REF:MurderMO|EquinoxHospitality"
-    ],
-    "name": "KillerMemoAuthorizationInteractable",
-    "compatibleWithAllMotives": 0,
-    "spawnOnPhase": 2,
-    "tryToSpawnWithEachNewMurder": 0,
-    "belongsTo": 0,
-    "chance": 1,
-    "useTraits": 0,
-    "traitModifiers": [],
-    "useIf": 0,
-    "ifTag": 0,
-    "useOrGroup": 0,
-    "orGroup": 0,
-    "chanceRatio": 0,
-    "itemTag": 7,
-    "spawnItem": "REF:InteractablePreset|KillerMemoAuthorizationInteractable",
-    "vmailThread": "",
-    "vmailProgressThreshold": {
-      "x": 0,
-      "y": 0
+    {
+      "compatibleWithMotives": [
+        "REF:MurderMO|EquinoxHospitality"
+      ],
+      "name": "KillerMemoAuthorizationInteractable",
+      "compatibleWithAllMotives": 0,
+      "spawnOnPhase": 2,
+      "tryToSpawnWithEachNewMurder": 0,
+      "belongsTo": 0,
+      "chance": 1,
+      "useTraits": 0,
+      "traitModifiers": [],
+      "useIf": 0,
+      "ifTag": 0,
+      "useOrGroup": 0,
+      "orGroup": 0,
+      "chanceRatio": 0,
+      "itemTag": 7,
+      "spawnItem": "REF:InteractablePreset|KillerMemoAuthorizationInteractable",
+      "vmailThread": "",
+      "vmailProgressThreshold": {
+        "x": 0,
+        "y": 0
+      },
+      "writer": 2,
+      "receiver": 1,
+      "vmailOtherParticipants": [],
+      "where": 0,
+      "security": 0,
+      "priority": 0,
+      "ownershipRule": 3
     },
-    "writer": 2,
-    "receiver": 1,
-    "vmailOtherParticipants": [],
-    "where": 0,
-    "security": 0,
-    "priority": 0,
-    "ownershipRule": 3
-  },
-  {
-    "compatibleWithMotives": [
-      "REF:MurderMO|EquinoxHospitality"
-    ],
-    "name": "KillerMemoMisroutedInteractable",
-    "compatibleWithAllMotives": 0,
-    "spawnOnPhase": 2,
-    "tryToSpawnWithEachNewMurder": 0,
-    "belongsTo": 0,
-    "chance": 1,
-    "useTraits": 0,
-    "traitModifiers": [],
-    "useIf": 0,
-    "ifTag": 0,
-    "useOrGroup": 0,
-    "orGroup": 0,
-    "chanceRatio": 0,
-    "itemTag": 8,
-    "spawnItem": "REF:InteractablePreset|KillerMemoMisroutedInteractable",
-    "vmailThread": "",
-    "vmailProgressThreshold": {
-      "x": 0,
-      "y": 0
+    {
+      "compatibleWithMotives": [
+        "REF:MurderMO|EquinoxHospitality"
+      ],
+      "name": "KillerMemoMisroutedInteractable",
+      "compatibleWithAllMotives": 0,
+      "spawnOnPhase": 2,
+      "tryToSpawnWithEachNewMurder": 0,
+      "belongsTo": 0,
+      "chance": 1,
+      "useTraits": 0,
+      "traitModifiers": [],
+      "useIf": 0,
+      "ifTag": 0,
+      "useOrGroup": 0,
+      "orGroup": 0,
+      "chanceRatio": 0,
+      "itemTag": 8,
+      "spawnItem": "REF:InteractablePreset|KillerMemoMisroutedInteractable",
+      "vmailThread": "",
+      "vmailProgressThreshold": {
+        "x": 0,
+        "y": 0
+      },
+      "writer": 2,
+      "receiver": 1,
+      "vmailOtherParticipants": [],
+      "where": 0,
+      "security": 0,
+      "priority": 0,
+      "ownershipRule": 3
     },
-    "writer": 2,
-    "receiver": 1,
-    "vmailOtherParticipants": [],
-    "where": 0,
-    "security": 0,
-    "priority": 0,
-    "ownershipRule": 3
-  },
-  {
-    "compatibleWithMotives": [
-      "REF:MurderMO|EquinoxHospitality"
-    ],
-    "name": "KillerSignInLeadInteractable",
-    "compatibleWithAllMotives": 0,
-    "spawnOnPhase": 2,
-    "tryToSpawnWithEachNewMurder": 0,
-    "belongsTo": 0,
-    "chance": 1,
-    "useTraits": 0,
-    "traitModifiers": [],
-    "useIf": 0,
-    "ifTag": 0,
-    "useOrGroup": 1,
-    "orGroup": 1,
-    "chanceRatio": 0,
-    "itemTag": 1,
-    "spawnItem": "REF:InteractablePreset|KillerSignInLeadInteractable",
-    "vmailThread": "",
-    "vmailProgressThreshold": {
-      "x": 0,
-      "y": 0
+    {
+      "compatibleWithMotives": [
+        "REF:MurderMO|EquinoxHospitality"
+      ],
+      "name": "KillerSignInLeadInteractable",
+      "compatibleWithAllMotives": 0,
+      "spawnOnPhase": 2,
+      "tryToSpawnWithEachNewMurder": 0,
+      "belongsTo": 0,
+      "chance": 1,
+      "useTraits": 0,
+      "traitModifiers": [],
+      "useIf": 0,
+      "ifTag": 0,
+      "useOrGroup": 1,
+      "orGroup": 1,
+      "chanceRatio": 0,
+      "itemTag": 1,
+      "spawnItem": "REF:InteractablePreset|KillerSignInLeadInteractable",
+      "vmailThread": "",
+      "vmailProgressThreshold": {
+        "x": 0,
+        "y": 0
+      },
+      "writer": 2,
+      "receiver": 1,
+      "vmailOtherParticipants": [],
+      "where": 0,
+      "security": 0,
+      "priority": 0,
+      "ownershipRule": 3
     },
-    "writer": 2,
-    "receiver": 1,
-    "vmailOtherParticipants": [],
-    "where": 0,
-    "security": 0,
-    "priority": 0,
-    "ownershipRule": 3
-  },
-  {
-    "compatibleWithMotives": [
-      "REF:MurderMO|EquinoxHospitality"
-    ],
-    "name": "SmallKillerLeadCardInteractable",
-    "compatibleWithAllMotives": 0,
-    "spawnOnPhase": 2,
-    "tryToSpawnWithEachNewMurder": 0,
-    "belongsTo": 0,
-    "chance": 1,
-    "useTraits": 0,
-    "traitModifiers": [],
-    "useIf": 0,
-    "ifTag": 0,
-    "useOrGroup": 0,
-    "orGroup": 0,
-    "chanceRatio": 0,
-    "itemTag": 9,
-    "spawnItem": "REF:InteractablePreset|SmallKillerLeadCardInteractable",
-    "vmailThread": "",
-    "vmailProgressThreshold": {
-      "x": 0,
-      "y": 0
+    {
+      "compatibleWithMotives": [
+        "REF:MurderMO|EquinoxHospitality"
+      ],
+      "name": "SmallKillerLeadCardInteractable",
+      "compatibleWithAllMotives": 0,
+      "spawnOnPhase": 2,
+      "tryToSpawnWithEachNewMurder": 0,
+      "belongsTo": 0,
+      "chance": 1,
+      "useTraits": 0,
+      "traitModifiers": [],
+      "useIf": 0,
+      "ifTag": 0,
+      "useOrGroup": 0,
+      "orGroup": 0,
+      "chanceRatio": 0,
+      "itemTag": 9,
+      "spawnItem": "REF:InteractablePreset|SmallKillerLeadCardInteractable",
+      "vmailThread": "",
+      "vmailProgressThreshold": {
+        "x": 0,
+        "y": 0
+      },
+      "writer": 2,
+      "receiver": 1,
+      "vmailOtherParticipants": [],
+      "where": 0,
+      "security": 0,
+      "priority": 0,
+      "ownershipRule": 3
     },
-    "writer": 2,
-    "receiver": 1,
-    "vmailOtherParticipants": [],
-    "where": 0,
-    "security": 0,
-    "priority": 0,
-    "ownershipRule": 3
-  },
-  {
-    "compatibleWithMotives": [
-      "REF:MurderMO|EquinoxHospitality"
-    ],
-    "name": "SmallTargetCardInteractable",
-    "compatibleWithAllMotives": 0,
-    "spawnOnPhase": 2,
-    "tryToSpawnWithEachNewMurder": 0,
-    "belongsTo": 0,
-    "chance": 1,
-    "useTraits": 0,
-    "traitModifiers": [],
-    "useIf": 0,
-    "ifTag": 0,
-    "useOrGroup": 1,
-    "orGroup": 0,
-    "chanceRatio": 0,
-    "itemTag": 0,
-    "spawnItem": "REF:InteractablePreset|SmallTargetCardInteractable",
-    "vmailThread": "",
-    "vmailProgressThreshold": {
-      "x": 0,
-      "y": 0
+    {
+      "compatibleWithMotives": [
+        "REF:MurderMO|EquinoxHospitality"
+      ],
+      "name": "SmallTargetCardInteractable",
+      "compatibleWithAllMotives": 0,
+      "spawnOnPhase": 2,
+      "tryToSpawnWithEachNewMurder": 0,
+      "belongsTo": 0,
+      "chance": 1,
+      "useTraits": 0,
+      "traitModifiers": [],
+      "useIf": 0,
+      "ifTag": 0,
+      "useOrGroup": 1,
+      "orGroup": 0,
+      "chanceRatio": 0,
+      "itemTag": 0,
+      "spawnItem": "REF:InteractablePreset|SmallTargetCardInteractable",
+      "vmailThread": "",
+      "vmailProgressThreshold": {
+        "x": 0,
+        "y": 0
+      },
+      "writer": 0,
+      "receiver": 0,
+      "vmailOtherParticipants": [],
+      "where": 0,
+      "security": 0,
+      "priority": 0,
+      "ownershipRule": 3
     },
-    "writer": 0,
-    "receiver": 0,
-    "vmailOtherParticipants": [],
-    "where": 0,
-    "security": 0,
-    "priority": 0,
-    "ownershipRule": 3
-  },
-  {
-    "compatibleWithMotives": [
-      "REF:MurderMO|EquinoxHospitality"
-    ],
-    "name": "TargetChecklistCardInteractable",
-    "compatibleWithAllMotives": 0,
-    "spawnOnPhase": 2,
-    "tryToSpawnWithEachNewMurder": 0,
-    "belongsTo": 0,
-    "chance": 1,
-    "useTraits": 0,
-    "traitModifiers": [],
-    "useIf": 0,
-    "ifTag": 0,
-    "useOrGroup": 1,
-    "orGroup": 0,
-    "chanceRatio": 0,
-    "itemTag": 0,
-    "spawnItem": "REF:InteractablePreset|TargetChecklistCardInteractable",
-    "vmailThread": "",
-    "vmailProgressThreshold": {
-      "x": 0,
-      "y": 0
+    {
+      "compatibleWithMotives": [
+        "REF:MurderMO|EquinoxHospitality"
+      ],
+      "name": "TargetChecklistCardInteractable",
+      "compatibleWithAllMotives": 0,
+      "spawnOnPhase": 2,
+      "tryToSpawnWithEachNewMurder": 0,
+      "belongsTo": 0,
+      "chance": 1,
+      "useTraits": 0,
+      "traitModifiers": [],
+      "useIf": 0,
+      "ifTag": 0,
+      "useOrGroup": 1,
+      "orGroup": 0,
+      "chanceRatio": 0,
+      "itemTag": 0,
+      "spawnItem": "REF:InteractablePreset|TargetChecklistCardInteractable",
+      "vmailThread": "",
+      "vmailProgressThreshold": {
+        "x": 0,
+        "y": 0
+      },
+      "writer": 0,
+      "receiver": 0,
+      "vmailOtherParticipants": [],
+      "where": 0,
+      "security": 0,
+      "priority": 0,
+      "ownershipRule": 3
     },
-    "writer": 0,
-    "receiver": 0,
-    "vmailOtherParticipants": [],
-    "where": 0,
-    "security": 0,
-    "priority": 0,
-    "ownershipRule": 3
-  },
-  {
-    "compatibleWithMotives": [
-      "REF:MurderMO|EquinoxHospitality"
-    ],
-    "name": "TargetEnvelopeInteractable",
-    "compatibleWithAllMotives": 0,
-    "spawnOnPhase": 2,
-    "tryToSpawnWithEachNewMurder": 0,
-    "belongsTo": 0,
-    "chance": 1,
-    "useTraits": 0,
-    "traitModifiers": [],
-    "useIf": 0,
-    "ifTag": 0,
-    "useOrGroup": 0,
-    "orGroup": 0,
-    "chanceRatio": 0,
-    "itemTag": 10,
-    "spawnItem": "REF:InteractablePreset|TargetEnvelopeInteractable",
-    "vmailThread": "",
-    "vmailProgressThreshold": {
-      "x": 0,
-      "y": 0
+    {
+      "compatibleWithMotives": [
+        "REF:MurderMO|EquinoxHospitality"
+      ],
+      "name": "TargetEnvelopeInteractable",
+      "compatibleWithAllMotives": 0,
+      "spawnOnPhase": 2,
+      "tryToSpawnWithEachNewMurder": 0,
+      "belongsTo": 0,
+      "chance": 1,
+      "useTraits": 0,
+      "traitModifiers": [],
+      "useIf": 0,
+      "ifTag": 0,
+      "useOrGroup": 0,
+      "orGroup": 0,
+      "chanceRatio": 0,
+      "itemTag": 10,
+      "spawnItem": "REF:InteractablePreset|TargetEnvelopeInteractable",
+      "vmailThread": "",
+      "vmailProgressThreshold": {
+        "x": 0,
+        "y": 0
+      },
+      "writer": 0,
+      "receiver": 0,
+      "vmailOtherParticipants": [],
+      "where": 0,
+      "security": 0,
+      "priority": 0,
+      "ownershipRule": 3
     },
-    "writer": 0,
-    "receiver": 0,
-    "vmailOtherParticipants": [],
-    "where": 0,
-    "security": 0,
-    "priority": 0,
-    "ownershipRule": 3
-  },
-  {
-    "compatibleWithMotives": [
-      "REF:MurderMO|EquinoxHospitality"
-    ],
-    "name": "VictimCoworkerWarningInteractable",
-    "compatibleWithAllMotives": 0,
-    "spawnOnPhase": 2,
-    "tryToSpawnWithEachNewMurder": 0,
-    "belongsTo": 0,
-    "chance": 1,
-    "useTraits": 0,
-    "traitModifiers": [],
-    "useIf": 0,
-    "ifTag": 0,
-    "useOrGroup": 1,
-    "orGroup": 1,
-    "chanceRatio": 0,
-    "itemTag": 1,
-    "spawnItem": "REF:InteractablePreset|VictimCoworkerWarningInteractable",
-    "vmailThread": "",
-    "vmailProgressThreshold": {
-      "x": 0,
-      "y": 0
+    {
+      "compatibleWithMotives": [
+        "REF:MurderMO|EquinoxHospitality"
+      ],
+      "name": "VictimCoworkerWarningInteractable",
+      "compatibleWithAllMotives": 0,
+      "spawnOnPhase": 2,
+      "tryToSpawnWithEachNewMurder": 0,
+      "belongsTo": 0,
+      "chance": 1,
+      "useTraits": 0,
+      "traitModifiers": [],
+      "useIf": 0,
+      "ifTag": 0,
+      "useOrGroup": 1,
+      "orGroup": 1,
+      "chanceRatio": 0,
+      "itemTag": 1,
+      "spawnItem": "REF:InteractablePreset|VictimCoworkerWarningInteractable",
+      "vmailThread": "",
+      "vmailProgressThreshold": {
+        "x": 0,
+        "y": 0
+      },
+      "writer": 1,
+      "receiver": 2,
+      "vmailOtherParticipants": [],
+      "where": 0,
+      "security": 0,
+      "priority": 0,
+      "ownershipRule": 3
     },
-    "writer": 1,
-    "receiver": 2,
-    "vmailOtherParticipants": [],
-    "where": 0,
-    "security": 0,
-    "priority": 0,
-    "ownershipRule": 3
-  },
-  {
-    "compatibleWithMotives": [
-      "REF:MurderMO|EquinoxHospitality"
-    ],
-    "name": "VictimSecurityWarningInteractable",
-    "compatibleWithAllMotives": 0,
-    "spawnOnPhase": 2,
-    "tryToSpawnWithEachNewMurder": 0,
-    "belongsTo": 0,
-    "chance": 1,
-    "useTraits": 0,
-    "traitModifiers": [],
-    "useIf": 0,
-    "ifTag": 0,
-    "useOrGroup": 1,
-    "orGroup": 1,
-    "chanceRatio": 0,
-    "itemTag": 1,
-    "spawnItem": "REF:InteractablePreset|VictimSecurityWarningInteractable",
-    "vmailThread": "",
-    "vmailProgressThreshold": {
-      "x": 0,
-      "y": 0
-    },
-    "writer": 1,
-    "receiver": 2,
-    "vmailOtherParticipants": [],
-    "where": 0,
-    "security": 0,
-    "priority": 0,
-    "ownershipRule": 3
-  }
+    {
+      "compatibleWithMotives": [
+        "REF:MurderMO|EquinoxHospitality"
+      ],
+      "name": "VictimSecurityWarningInteractable",
+      "compatibleWithAllMotives": 0,
+      "spawnOnPhase": 2,
+      "tryToSpawnWithEachNewMurder": 0,
+      "belongsTo": 0,
+      "chance": 1,
+      "useTraits": 0,
+      "traitModifiers": [],
+      "useIf": 0,
+      "ifTag": 0,
+      "useOrGroup": 1,
+      "orGroup": 1,
+      "chanceRatio": 0,
+      "itemTag": 1,
+      "spawnItem": "REF:InteractablePreset|VictimSecurityWarningInteractable",
+      "vmailThread": "",
+      "vmailProgressThreshold": {
+        "x": 0,
+        "y": 0
+      },
+      "writer": 1,
+      "receiver": 2,
+      "vmailOtherParticipants": [],
+      "where": 0,
+      "security": 0,
+      "priority": 0,
+      "ownershipRule": 3
+    }
   ],
   "graffiti": [],
-  "callingCardPool": [],
+  "callingCardPool": [
+    {
+      "item": "REF:InteractablePreset|CallingCard1Interactable",
+      "origin": 0,
+      "randomScoreRange": {
+        "x": 1,
+        "y": 4
+      },
+      "traitModifiers": []
+    },
+    {
+      "item": "REF:InteractablePreset|CallingCard2MessyInteractable",
+      "origin": 0,
+      "randomScoreRange": {
+        "x": 0,
+        "y": 0
+      },
+      "traitModifiers": []
+    }
+  ],
   "playerTaunts": [],
   "fileType": "MurderMO",
   "name": "TestHitmanJob",
