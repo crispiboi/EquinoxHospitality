@@ -1,0 +1,50 @@
+{
+  "name": "SmallTargetCardEvidence",
+  "fileType": "EvidencePreset",
+  "copyFrom": "REF:EvidencePreset|BusinessCardKiller",
+  "presetName": "SmallTargetCardEvidence",
+  "ddsDocumentID": "58f1cf40-ccc0-4ea1-83cc-db1e44f56d79",
+  "useInGamePhoto": 1,
+  "factSetup": [
+    {
+      "preset": "REF:FactPreset|FoundAt",
+      "link": 5,
+      "onlyIfInOwnedPosition": 0,
+      "createOnDiscovery": 1,
+      "forceDiscoveryOnCreation": 0,
+      "switchFindingFactToFrom": 0
+    },
+    {
+      "preset": "REF:FactPreset|PhotoOf",
+      "link": 2,
+      "onlyIfInOwnedPosition": 0,
+      "createOnDiscovery": 1,
+      "forceDiscoveryOnCreation": 0,
+      "switchFindingFactToFrom": 0
+    },
+    {
+      "preset": "REF:FactPreset|BelongsTo",
+      "link": 0,
+      "onlyIfInOwnedPosition": 0,
+      "createOnDiscovery": 0,
+      "forceDiscoveryOnCreation": 0,
+      "switchFindingFactToFrom": 0
+    }
+  ],
+  "addFactLinks": [
+    {
+      "subject": 1,
+      "factDictionary": "",
+      "key": 1,
+      "discovery": 1
+    }
+  ],
+  "keyMergeOnDiscovery": [
+    {
+      "link": 2,
+      "mergeKeys": [
+        1
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "KillerAuditReportInteractable",
+  "fileType": "InteractablePreset",
+  "copyFrom": "InteractablePreset|CrumpledPaperNameCypher",
+  "presetName": "KillerAuditReportInteractable",
+  "spawnEvidence": "REF:EvidencePreset|KillerAuditReportEvidence",
+  "summaryMessageSource": "91cdfe44-de3e-4c25-829c-915dbc929ed3"
+}

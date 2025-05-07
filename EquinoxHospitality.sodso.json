@@ -1,0 +1,116 @@
+{
+  "presetName": "EquinoxHospitality",
+  "notes": "TestHitmanJob",
+  "disabled": false,
+  "compatibleWith": [
+    "REF:MurderPreset|HitmanMurderPreset"
+  ],
+  "baseDifficulty": 0,
+  "maximumPotentialScore": 0,
+  "updateThis": false,
+  "pickRandomScoreRange": {
+    "x": 0,
+    "y": 1
+  },
+  "murdererTraitModifiers": [],
+  "murdererJobModifiers": [],
+  "murdererCompanyModifiers": [],
+  "useMurdererSocialClassRange": false,
+  "murdererClassRange": {
+    "x": 0,
+    "y": 1
+  },
+  "murdererClassRangeBoost": 0,
+  "useHexaco": false,
+  "hexaco": {
+    "outputMin": 1,
+    "outputMax": 10,
+    "enableFeminineMasculine": false,
+    "feminineMasculine": 0,
+    "enableHumility": false,
+    "humility": 0,
+    "enableEmotionality": false,
+    "emotionality": 0,
+    "enableExtraversion": false,
+    "extraversion": 0,
+    "enableAgreeableness": false,
+    "agreeableness": 0,
+    "enableConscientiousness": false,
+    "conscientiousness": 0,
+    "enableCreativity": false,
+    "creativity": 0
+  },
+  "requiresSniperVantageAtHome": false,
+  "weaponsPool": [
+    "REF:MurderWeaponsPool|Blades",
+    "REF:MurderWeaponsPool|Guns"
+  ],
+  "blockDroppingWeapons": false,
+  "allowAnywhere": false,
+  "allowHome": true,
+  "allowWork": false,
+  "allowPublic": false,
+  "allowStreets": false,
+  "allowDen": false,
+  "denFurniture": [],
+  "denStyleOverride": [],
+  "denItems": [],
+  "acquaintedSuitabilityBoost": 0,
+  "attractedToSuitabilityBoost": 0,
+  "likeSuitabilityBoost": 0,
+  "sameWorkplaceBoost": 0,
+  "murdererIsTenantBoost": 0,
+  "victimRandomScoreRange": {
+    "x": 0,
+    "y": 1
+  },
+  "victimTraitModifiers": [],
+  "victimJobModifiers": [],
+  "victimCompanyModifiers": [],
+  "useVictimSocialClassRange": false,
+  "victimClassRange": {
+    "x": 0,
+    "y": 1
+  },
+  "victimClassRangeBoost": 0,
+  "monkierDDSMessageList": "",
+  "confessionalDDSResponses": [],
+  "MOleads": [
+    {
+      "compatibleWithMotives": [],
+      "name": "",
+      "compatibleWithAllMotives": 0,
+      "spawnOnPhase": 0,
+      "tryToSpawnWithEachNewMurder": 0,
+      "belongsTo": 0,
+      "chance": 0,
+      "useTraits": 0,
+      "traitModifiers": [],
+      "useIf": 0,
+      "ifTag": 0,
+      "useOrGroup": 0,
+      "orGroup": 0,
+      "chanceRatio": 0,
+      "itemTag": 0,
+      "spawnItem": "REF:InteractablePreset|21AmmoLarge",
+      "vmailThread": "",
+      "vmailProgressThreshold": {
+        "x": 0,
+        "y": 0
+      },
+      "writer": 0,
+      "receiver": 0,
+      "vmailOtherParticipants": [],
+      "where": 0,
+      "security": 0,
+      "priority": 0,
+      "ownershipRule": 0
+    }
+  ],
+  "graffiti": [],
+  "callingCardPool": [],
+  "playerTaunts": [],
+  "fileType": "MurderMO",
+  "name": "TestHitmanJob",
+  "copyFrom": null
+}

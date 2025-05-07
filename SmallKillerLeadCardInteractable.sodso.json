@@ -1,0 +1,8 @@
+{
+  "name": "SmallKillerLeadCardInteractable",
+  "fileType": "InteractablePreset",
+  "copyFrom": "InteractablePreset|CrumpledPaperNameCypher",
+  "presetName": "SmallKillerLeadCardInteractable",
+  "spawnEvidence": "REF:EvidencePreset|SmallKillerLeadCardEvidence",
+  "summaryMessageSource": "08b4bed7-f2eb-4255-8922-3d10dbfb4b51"
+}

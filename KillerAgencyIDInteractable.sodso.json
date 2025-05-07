@@ -1,0 +1,8 @@
+{
+  "name": "KillerAgencyIDInteractable",
+  "fileType": "InteractablePreset",
+  "copyFrom": "InteractablePreset|CrumpledPaperNameCypher",
+  "presetName": "KillerAgencyIDInteractable",
+  "spawnEvidence": "REF:EvidencePreset|KillerAgencyIDEvidence",
+  "summaryMessageSource": "a15e007b-b395-462a-8abc-9981c7618564"
+}

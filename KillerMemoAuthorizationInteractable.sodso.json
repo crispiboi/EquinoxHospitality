@@ -1,0 +1,8 @@
+{
+  "name": "KillerMemoAuthorizationInteractable",
+  "fileType": "InteractablePreset",
+  "copyFrom": "InteractablePreset|CrumpledPaperNameCypher",
+  "presetName": "KillerMemoAuthorizationInteractable",
+  "spawnEvidence": "REF:EvidencePreset|KillerMemoAuthorizationEvidence",
+  "summaryMessageSource": "d5c12197-2887-4775-b05a-647fcddcb410"
+}

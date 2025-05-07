@@ -1,0 +1,8 @@
+{
+  "name": "KillerMemoMisroutedInteractable",
+  "fileType": "InteractablePreset",
+  "copyFrom": "InteractablePreset|CrumpledPaperNameCypher",
+  "presetName": "KillerMemoMisroutedInteractable",
+  "spawnEvidence": "REF:EvidencePreset|KillerMemoMisroutedEvidence",
+  "summaryMessageSource": "16b7bd6e-63c5-41b8-8b2c-2f28e8f09320"
+}

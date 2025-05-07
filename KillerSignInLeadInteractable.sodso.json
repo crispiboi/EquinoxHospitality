@@ -1,0 +1,8 @@
+{
+  "name": "KillerSignInLeadInteractable",
+  "fileType": "InteractablePreset",
+  "copyFrom": "InteractablePreset|CrumpledPaperNameCypher",
+  "presetName": "KillerSignInLeadInteractable",
+  "spawnEvidence": "REF:EvidencePreset|KillerSignInLeadEvidence",
+  "summaryMessageSource": "4641a6ae-c917-4656-9e5a-c18feba127f5"
+}

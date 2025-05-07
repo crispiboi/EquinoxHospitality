@@ -1,0 +1,150 @@
+{
+  "presetName": "HitmanMurderPreset",
+  "caseType": 0,
+  "disabled": false,
+  "frequency": 3,
+  "murdererRandomScoreRange": {
+    "x": 0,
+    "y": 1
+  },
+  "murdererTraitModifiers": [],
+  "useHexaco": false,
+  "hexaco": {
+    "outputMin": 1,
+    "outputMax": 10,
+    "enableFeminineMasculine": false,
+    "feminineMasculine": 0,
+    "enableHumility": false,
+    "humility": 0,
+    "enableEmotionality": false,
+    "emotionality": 0,
+    "enableExtraversion": false,
+    "extraversion": 0,
+    "enableAgreeableness": false,
+    "agreeableness": 0,
+    "enableConscientiousness": false,
+    "conscientiousness": 0,
+    "enableCreativity": false,
+    "creativity": 0
+  },
+  "pickDen": false,
+  "kidnapperTimeUntilKill": 5,
+  "minimumTimeBetweenMurders": 8,
+  "nonHomeMaximumOccupantsTrigger": 1,
+  "nonHomeMaximumOccupantsCancel": 2,
+  "requiresAcquirePhase": true,
+  "acquirePassInteractable": false,
+  "acquirePassRoom": true,
+  "acquireActionSetup": [
+    {
+      "actions": [
+        "REF:AIActionPreset|PostTaunt"
+      ],
+      "condition": 10,
+      "chance": 1,
+      "traitModifiers": [],
+      "statusModifiers": []
+    },
+    {
+      "actions": [
+        "REF:AIActionPreset|PurchaseItem"
+      ],
+      "condition": 0,
+      "chance": 1,
+      "traitModifiers": [],
+      "statusModifiers": []
+    },
+    {
+      "actions": [
+        "REF:AIActionPreset|HuntVictim"
+      ],
+      "condition": 0,
+      "chance": 1,
+      "traitModifiers": [],
+      "statusModifiers": []
+    },
+    {
+      "actions": [
+        "REF:AIActionPreset|ShopForGroceries"
+      ],
+      "condition": 0,
+      "chance": 1,
+      "traitModifiers": [],
+      "statusModifiers": []
+    }
+  ],
+  "requiresResearchPhase": 0,
+  "killerMeetsVicim": 0,
+  "researchPassInteractable": true,
+  "researchPassRoom": true,
+  "researchActionSetup": [],
+  "blockVictimFromLeavingLocation": true,
+  "travelSuccessTrigger": 0,
+  "travelPassInteractable": true,
+  "travelPassRoom": true,
+  "travelActionSetup": [
+    {
+      "actions": [
+        "REF:AIActionPreset|HuntVictim"
+      ],
+      "condition": 0,
+      "chance": 0,
+      "traitModifiers": [],
+      "statusModifiers": []
+    },
+    {
+      "actions": [
+        "REF:AIActionPreset|SmokeLean"
+      ],
+      "condition": 2,
+      "chance": 1,
+      "traitModifiers": [],
+      "statusModifiers": []
+    }
+  ],
+  "executePassInteractable": true,
+  "executePassRoom": true,
+  "executionActionSetup": [
+    {
+      "actions": [
+        "REF:AIActionPreset|Chase"
+      ],
+      "condition": 0,
+      "chance": 1,
+      "traitModifiers": [],
+      "statusModifiers": []
+    },
+    {
+      "actions": [
+        "REF:AIActionPreset|Attack"
+      ],
+      "condition": 0,
+      "chance": 0,
+      "traitModifiers": [],
+      "statusModifiers": []
+    }
+  ],
+  "postPassInteractable": true,
+  "postPassRoom": true,
+  "postActionSetup": [],
+  "escapePassInteractable": true,
+  "escapePassRoom": true,
+  "escapeActionSetup": [
+    {
+      "actions": [
+        "REF:AIActionPreset|EscapeFromBuilding"
+      ],
+      "condition": 0,
+      "chance": 0,
+      "traitModifiers": [],
+      "statusModifiers": []
+    }
+  ],
+  "leads": [],
+  "useCustomResolveQuestions": false,
+  "customResolveQuestions": [],
+  "copyFrom": "REF:MurderPreset|SerialKiller",
+  "fileType": "MurderPreset",
+  "name": "HitmanMurderPreset",
+  "type": "MurderPreset"
+}

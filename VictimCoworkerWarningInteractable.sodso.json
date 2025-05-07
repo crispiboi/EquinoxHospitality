@@ -1,0 +1,8 @@
+{
+  "name": "VictimCoworkerWarningInteractable",
+  "fileType": "InteractablePreset",
+  "copyFrom": "InteractablePreset|CrumpledPaperNameCypher",
+  "presetName": "VictimCoworkerWarningInteractable",
+  "spawnEvidence": "REF:EvidencePreset|VictimCoworkerWarningEvidence",
+  "summaryMessageSource": "61422806-abfc-4c5a-937a-92e8bb365ca3"
+}

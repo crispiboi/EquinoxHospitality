@@ -1,0 +1,8 @@
+{
+  "name": "TargetEnvelopeInteractable",
+  "fileType": "InteractablePreset",
+  "copyFrom": "InteractablePreset|CrumpledPaperNameCypher",
+  "presetName": "TargetEnvelopeInteractable",
+  "spawnEvidence": "REF:EvidencePreset|TargetEnvelopeEvidence",
+  "summaryMessageSource": "518b191e-0ae7-4491-838b-1c24dd154aec"
+}

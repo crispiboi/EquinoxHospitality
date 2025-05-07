@@ -1,0 +1,8 @@
+{
+  "name": "SmallTargetCardInteractable",
+  "fileType": "InteractablePreset",
+  "copyFrom": "InteractablePreset|CrumpledPaperNameCypher",
+  "presetName": "SmallTargetCardInteractable",
+  "spawnEvidence": "REF:EvidencePreset|SmallTargetCardEvidence",
+  "summaryMessageSource": "58f1cf40-ccc0-4ea1-83cc-db1e44f56d79"
+}

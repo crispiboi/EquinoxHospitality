@@ -1,0 +1,38 @@
+{
+  "name": "TargetChecklistCardEvidence",
+  "fileType": "EvidencePreset",
+  "copyFrom": "REF:EvidencePreset|CrumpledPaper",
+  "presetName": "TargetChecklistCardEvidence",
+  "ddsDocumentID": "acbc11f0-5204-4264-b71d-924618e00a6e",
+  "factSetup": [
+    {
+      "preset": "REF:FactPreset|FoundAt",
+      "link": 5,
+      "onlyIfInOwnedPosition": 0,
+      "createOnDiscovery": 1,
+      "forceDiscoveryOnCreation": 0,
+      "switchFindingFactToFrom": 0
+    }
+  ],
+  "addFactLinks": [
+    {
+      "subject": 0,
+      "factDictionary": "",
+      "key": 41,
+      "discovery": 1
+    }
+  ],
+  "keyMergeOnDiscovery": [
+    {
+      "link": 1,
+      "mergeKeys": [
+        41,
+        5,
+        9,
+        20,
+        11,
+        14
+      ]
+    }
+  ]
+}

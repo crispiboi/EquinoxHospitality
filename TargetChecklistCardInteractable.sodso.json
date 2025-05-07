@@ -1,0 +1,8 @@
+{
+  "name": "TargetChecklistCardInteractable",
+  "fileType": "InteractablePreset",
+  "copyFrom": "InteractablePreset|CrumpledPaperNameCypher",
+  "presetName": "TargetChecklistCardInteractable",
+  "spawnEvidence": "REF:EvidencePreset|TargetChecklistCardEvidence",
+  "summaryMessageSource": "acbc11f0-5204-4264-b71d-924618e00a6e"
+}

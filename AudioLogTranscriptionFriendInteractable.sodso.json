@@ -1,0 +1,8 @@
+{
+  "name": "AudioLogTranscriptionFriendInteractable",
+  "fileType": "InteractablePreset",
+  "copyFrom": "InteractablePreset|CrumpledPaperNameCypher",
+  "presetName": "AudioLogTranscriptionFriendInteractable",
+  "spawnEvidence": "REF:EvidencePreset|AudioLogTranscriptionFriendEvidence",
+  "summaryMessageSource": "fe6d6438-6d8b-4fd5-8001-34b06c37950c"
+}

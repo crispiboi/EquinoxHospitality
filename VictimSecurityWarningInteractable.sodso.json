@@ -1,0 +1,8 @@
+{
+  "name": "VictimSecurityWarningInteractable",
+  "fileType": "InteractablePreset",
+  "copyFrom": "InteractablePreset|CrumpledPaperNameCypher",
+  "presetName": "VictimSecurityWarningInteractable",
+  "spawnEvidence": "REF:EvidencePreset|VictimSecurityWarningEvidence",
+  "summaryMessageSource": "13f923af-c61f-48b7-96d4-823436e57d32"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "CallingCard4FakeInteractable",
+  "fileType": "InteractablePreset",
+  "copyFrom": "InteractablePreset|CrumpledPaperNameCypher",
+  "presetName": "CallingCard4FakeInteractable",
+  "spawnEvidence": "REF:EvidencePreset|CallingCard4FakeEvidence",
+  "summaryMessageSource": "5ebe8b25-4e9f-4887-a9af-90899a118a83"
+}

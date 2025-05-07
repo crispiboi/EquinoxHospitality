@@ -1,0 +1,8 @@
+{
+  "name": "CallingCard3UnfilledInteractable",
+  "fileType": "InteractablePreset",
+  "copyFrom": "InteractablePreset|CrumpledPaperNameCypher",
+  "presetName": "CallingCard3UnfilledInteractable",
+  "spawnEvidence": "REF:EvidencePreset|CallingCard3UnfilledEvidence",
+  "summaryMessageSource": "725114a2-4a9f-4aea-b57f-05c1ae13d072"
+}

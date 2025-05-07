@@ -1,0 +1,8 @@
+{
+  "name": "CallingCard2MessyInteractable",
+  "fileType": "InteractablePreset",
+  "copyFrom": "REF:InteractablePreset|BusinessCardKiller",
+  "presetName": "CallingCard2MessyInteractable",
+  "spawnEvidence": "REF:EvidencePreset|CallingCard2MessyEvidence",
+  "summaryMessageSource": "18246478-258d-468d-8ec8-752970743d1f"
+}
