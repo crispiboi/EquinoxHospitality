@@ -1,9 +1,9 @@
 {
-  "name": "CallingCard2MessyInteractable",
+  "name": "EQCallingCard2MessyInteractable",
   "fileType": "InteractablePreset",
   "copyFrom": "REF:InteractablePreset|BusinessCardKiller",
   "presetName": "CallingCard2MessyInteractable",
-  "spawnEvidence": "REF:EvidencePreset|CallingCard2MessyEvidence",
+  "spawnEvidence": "REF:EvidencePreset|EQCallingCard2MessyEvidence",
   "summaryMessageSource": "18246478-258d-468d-8ec8-752970743d1f",
   "subObjectClasses": [],
   "backupClasses": [

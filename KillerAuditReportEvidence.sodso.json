@@ -12,6 +12,14 @@
       "createOnDiscovery": 1,
       "forceDiscoveryOnCreation": 0,
       "switchFindingFactToFrom": 0
+    },
+    {
+      "preset": "REF:FactPreset|PhotoOf",
+      "link": 1,
+      "onlyIfInOwnedPosition": 0,
+      "createOnDiscovery": 0,
+      "forceDiscoveryOnCreation": 0,
+      "switchFindingFactToFrom": 0
     }
   ],
   "keyMergeOnDiscovery": [

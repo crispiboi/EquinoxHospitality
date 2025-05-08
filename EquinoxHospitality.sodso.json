@@ -100,10 +100,10 @@
         "x": 0,
         "y": 0
       },
-      "writer": 0,
-      "receiver": 0,
+      "writer": 2,
+      "receiver": 1,
       "vmailOtherParticipants": [],
-      "where": 0,
+      "where": 2,
       "security": 0,
       "priority": 0,
       "ownershipRule": 3
@@ -380,7 +380,7 @@
       "ifTag": 0,
       "useOrGroup": 1,
       "orGroup": 0,
-      "chanceRatio": 0,
+      "chanceRatio": 1,
       "itemTag": 0,
       "spawnItem": "REF:InteractablePreset|SmallTargetCardInteractable",
       "vmailThread": "",
@@ -412,7 +412,7 @@
       "ifTag": 0,
       "useOrGroup": 1,
       "orGroup": 0,
-      "chanceRatio": 0,
+      "chanceRatio": 1,
       "itemTag": 0,
       "spawnItem": "REF:InteractablePreset|TargetChecklistCardInteractable",
       "vmailThread": "",
@@ -476,7 +476,7 @@
       "ifTag": 0,
       "useOrGroup": 1,
       "orGroup": 1,
-      "chanceRatio": 0,
+      "chanceRatio": 1,
       "itemTag": 1,
       "spawnItem": "REF:InteractablePreset|VictimCoworkerWarningInteractable",
       "vmailThread": "",
@@ -508,7 +508,7 @@
       "ifTag": 0,
       "useOrGroup": 1,
       "orGroup": 1,
-      "chanceRatio": 0,
+      "chanceRatio": 1,
       "itemTag": 1,
       "spawnItem": "REF:InteractablePreset|VictimSecurityWarningInteractable",
       "vmailThread": "",
@@ -528,7 +528,7 @@
   "graffiti": [],
   "callingCardPool": [
     {
-      "item": "REF:InteractablePreset|CallingCard1Interactable",
+      "item": "REF:InteractablePreset|EQCallingCard1Interactable",
       "origin": 0,
       "randomScoreRange": {
         "x": 1,
@@ -537,7 +537,7 @@
       "traitModifiers": []
     },
     {
-      "item": "REF:InteractablePreset|CallingCard2MessyInteractable",
+      "item": "REF:InteractablePreset|EQCallingCard2MessyInteractable",
       "origin": 0,
       "randomScoreRange": {
         "x": 1,

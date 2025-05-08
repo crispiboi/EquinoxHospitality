@@ -1,9 +1,9 @@
 {
-  "name": "CallingCard1Evidence",
+  "name": "EQCallingCard2MessyEvidence",
   "fileType": "EvidencePreset",
   "copyFrom": "REF:EvidencePreset|BusinessCard",
-  "presetName": "CallingCard1Evidence",
-  "ddsDocumentID": "f85ce80f-ff93-4f8f-88b7-761131c08202",
+  "presetName": "EQCallingCard2MessyEvidence",
+  "ddsDocumentID": "18246478-258d-468d-8ec8-752970743d1f",
   "factSetup": [
     {
       "preset": "REF:FactPreset|FoundAt",
@@ -14,7 +14,6 @@
       "switchFindingFactToFrom": 0
     }
   ],
-  "addFactLinks": [],
   "keyMergeOnDiscovery": [
     {
       "link": 1,
