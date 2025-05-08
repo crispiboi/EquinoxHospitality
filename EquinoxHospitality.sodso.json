@@ -389,7 +389,7 @@
         "y": 0
       },
       "writer": 0,
-      "receiver": 0,
+      "receiver": 1,
       "vmailOtherParticipants": [],
       "where": 0,
       "security": 0,
@@ -420,7 +420,7 @@
         "x": 0,
         "y": 0
       },
-      "writer": 0,
+      "writer": 1,
       "receiver": 0,
       "vmailOtherParticipants": [],
       "where": 0,
@@ -541,7 +541,7 @@
       "origin": 0,
       "randomScoreRange": {
         "x": 1,
-        "y": 6
+        "y": 4
       },
       "traitModifiers": []
     }

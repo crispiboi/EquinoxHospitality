@@ -4,7 +4,7 @@
   "copyFrom": "REF:InteractablePreset|BusinessCard",
   "presetName": "CallingCard3UnfilledInteractable",
   "spawnEvidence": "REF:EvidencePreset|CallingCard2MessyEvidence",
-  "summaryMessageSource": "18246478-258d-468d-8ec8-752970743d1f",
+  "summaryMessageSource": "725114a2-4a9f-4aea-b57f-05c1ae13d072",
   "subObjectClasses": [
     "REF:SubObjectClassPreset|DeskItemOffice",
     "REF:SubObjectClassPreset|TabletopItemGeneric",
