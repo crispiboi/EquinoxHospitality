@@ -118,7 +118,7 @@
 "ba02c0a5-3478-4ce0-875d-58db37ee72c4","","INTERNAL USE ONLY - DO NOT COPY","",,"","13:59 06/05/2025"
 "6218a6e4-8a3e-46d0-8fd9-467d61e4f3da","","TO: REP <REDACTED> - E.H.G.","",,"","14:00 06/05/2025"
 "90635314-9936-463c-9947-5665a88e6a59","","RE: HANDLER COORDINATION REVIEW","",,"","14:07 06/05/2025"
-"fe4d8cef-183a-4bc3-af1f-3d833e2e6d50","","Verify host locale\nCURRENT ENTRY: |receiver.home.name|, |receiver.home.street| - DISPATCH","",,"","14:05 06/05/2025"
+"fe4d8cef-183a-4bc3-af1f-3d833e2e6d50","","Verify host locale","",,"","18:58 08/05/2025"
 "3a1de8a0-46aa-4527-bb9c-1f8cc226001a","","DESTROY UPON RECEIPT","",,"","14:01 06/05/2025"
 "b8211808-628e-4e27-87fb-08146e396220","","REPLY VIA TRANSFER POINT |random.park.name|-W","",,"","14:06 06/05/2025"
 "cbf49046-25fc-4ea8-9413-7321921df010","","REPLY VIA TRANSFER POINT |random.eatery.name|-X","",,"","14:06 06/05/2025"
@@ -178,3 +178,4 @@
 "750e6cd4-d645-499a-b0c0-ef3ed809c738","","DI: 4/10","",,"","10:02 08/05/2025"
 "6ff23549-10e0-4714-b8f7-ea1ad068de78","","  [ ] EXCEPTION","",,"","10:03 08/05/2025"
 "9277fd76-6fea-481f-a41b-8a2300f5a89a","","  [ ] QUIETED","",,"","10:04 08/05/2025"
+"d65e9647-3650-4596-81ed-7c4150693c42","","CURRENT ENTRY: |receiver.home.name|, |receiver.home.street| - DISPATCH","",,"","18:58 08/05/2025"

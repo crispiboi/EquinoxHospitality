@@ -11,7 +11,7 @@
       "link": 5,
       "onlyIfInOwnedPosition": 0,
       "createOnDiscovery": 1,
-      "forceDiscoveryOnCreation": 0,
+      "forceDiscoveryOnCreation": 1,
       "switchFindingFactToFrom": 0
     },
     {
@@ -19,7 +19,7 @@
       "link": 2,
       "onlyIfInOwnedPosition": 0,
       "createOnDiscovery": 1,
-      "forceDiscoveryOnCreation": 0,
+      "forceDiscoveryOnCreation": 1,
       "switchFindingFactToFrom": 0
     },
     {

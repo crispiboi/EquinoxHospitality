@@ -3,5 +3,17 @@
   "fileType": "EvidencePreset",
   "copyFrom": "EvidencePreset|CrumpledNameCipher",
   "presetName": "VictimSecurityWarningEvidence",
-  "ddsDocumentID": "13f923af-c61f-48b7-96d4-823436e57d32"
+  "ddsDocumentID": "13f923af-c61f-48b7-96d4-823436e57d32",
+  "factSetup": [
+    {
+      "preset": "REF:FactPreset|FoundAt",
+      "link": 0,
+      "onlyIfInOwnedPosition": 0,
+      "createOnDiscovery": 1,
+      "forceDiscoveryOnCreation": 1,
+      "switchFindingFactToFrom": 0
+    }
+  ],
+  "addFactLinks": [],
+  "keyMergeOnDiscovery": []
 }

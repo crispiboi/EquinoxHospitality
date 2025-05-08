@@ -4,26 +4,33 @@
   "copyFrom": "REF:EvidencePreset|WorkID",
   "presetName": "KillerAgencyIDEvidence",
   "ddsDocumentID": "a15e007b-b395-462a-8abc-9981c7618564",
-  "useInGamePhoto": false,
+  "useInGamePhoto": 1,
   "factSetup": [
     {
       "preset": "REF:FactPreset|FoundAt",
       "link": 5,
       "onlyIfInOwnedPosition": 0,
       "createOnDiscovery": 1,
-      "forceDiscoveryOnCreation": 0,
+      "forceDiscoveryOnCreation": 1,
       "switchFindingFactToFrom": 0
     },
     {
       "preset": "REF:FactPreset|PhotoOf",
       "link": 1,
       "onlyIfInOwnedPosition": 0,
-      "createOnDiscovery": 0,
+      "createOnDiscovery": 1,
       "forceDiscoveryOnCreation": 1,
       "switchFindingFactToFrom": 0
     }
   ],
-  "addFactLinks": [],
+  "addFactLinks": [
+    {
+      "subject": 0,
+      "factDictionary": "",
+      "key": 1,
+      "discovery": 0
+    }
+  ],
   "keyMergeOnDiscovery": [
     {
       "link": 1,

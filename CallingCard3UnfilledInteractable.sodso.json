@@ -3,7 +3,7 @@
   "fileType": "InteractablePreset",
   "copyFrom": "REF:InteractablePreset|BusinessCard",
   "presetName": "CallingCard3UnfilledInteractable",
-  "spawnEvidence": "REF:EvidencePreset|CallingCard2MessyEvidence",
+  "spawnEvidence": "REF:EvidencePreset|CallingCard3UnfilledEvidence",
   "summaryMessageSource": "725114a2-4a9f-4aea-b57f-05c1ae13d072",
   "subObjectClasses": [
     "REF:SubObjectClassPreset|DeskItemOffice",

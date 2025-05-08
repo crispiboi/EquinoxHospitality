@@ -1,7 +1,7 @@
 {
   "name": "KillerMemoMisroutedEvidence",
   "fileType": "EvidencePreset",
-  "copyFrom": "EvidencePreset|CrumpledNameCipher",
+  "copyFrom": "REF:EvidencePreset|CrumpledPaper",
   "presetName": "KillerMemoMisroutedEvidence",
   "ddsDocumentID": "16b7bd6e-63c5-41b8-8b2c-2f28e8f09320",
   "factSetup": [
@@ -10,7 +10,7 @@
       "link": 5,
       "onlyIfInOwnedPosition": 0,
       "createOnDiscovery": 1,
-      "forceDiscoveryOnCreation": 0,
+      "forceDiscoveryOnCreation": 1,
       "switchFindingFactToFrom": 0
     }
   ],
