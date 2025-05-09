@@ -7,7 +7,7 @@
   "factSetup": [
     {
       "preset": "REF:FactPreset|FoundAt",
-      "link": 0,
+      "link": 5,
       "onlyIfInOwnedPosition": 0,
       "createOnDiscovery": 1,
       "forceDiscoveryOnCreation": 1,

@@ -29,7 +29,7 @@
   },
   "pickDen": false,
   "kidnapperTimeUntilKill": 5,
-  "minimumTimeBetweenMurders": 8,
+  "minimumTimeBetweenMurders": 12,
   "nonHomeMaximumOccupantsTrigger": 1,
   "nonHomeMaximumOccupantsCancel": 2,
   "requiresAcquirePhase": true,

@@ -4,8 +4,8 @@ VictimCoworkerWarningInteractable,,"Note",,,,11:49 05/09/2022
 VictimSecurityWarningInteractable,,"Note",,,,11:49 05/09/2022
 KillerSignInLeadInteractable,,"Note",,,,11:49 05/09/2022
 AudioLogTranscriptionFriendInteractable,,"Log",,,,11:49 05/09/2022
-CallingCard1Interactable,,"Card",,,,11:49 05/09/2022
-CallingCard2MessyInteractable,,"Card",,,,11:49 05/09/2022
+EQCallingCard1Interactable,,"Card",,,,11:49 05/09/2022
+EQCallingCard2MessyInteractable,,"Card",,,,11:49 05/09/2022
 CallingCard4FakeInteractable,,"Card",,,,11:49 05/09/2022
 CallingCard3UnfilledInteractable,,"Card",,,,11:49 05/09/2022
 CallingCard4FakeInteractable,,"Card",,,,11:49 05/09/2022
@@ -21,8 +21,8 @@ VictimCoworkerWarningEvidence,,"Note",,,,11:49 05/09/2022
 VictimSecurityWarningEvidence,,"Note",,,,11:49 05/09/2022
 KillerSignInLeadEvidence,,"Note",,,,11:49 05/09/2022
 AudioLogTranscriptionFriendEvidence,,"Log",,,,11:49 05/09/2022
-CallingCard1Evidence,,"Card",,,,11:49 05/09/2022
-CallingCard2MessyEvidence,,"Card",,,,11:49 05/09/2022
+EQCallingCard1Evidence,,"Card",,,,11:49 05/09/2022
+EQCallingCard2MessyEvidence,,"Card",,,,11:49 05/09/2022
 CallingCard4FakeEvidence,,"Card",,,,11:49 05/09/2022
 CallingCard3UnfilledEvidence,,"Card",,,,11:49 05/09/2022
 CallingCard4FakeEvidence,,"Card",,,,11:49 05/09/2022
