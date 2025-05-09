@@ -292,8 +292,8 @@
         "x": 0,
         "y": 0
       },
-      "writer": 2,
-      "receiver": 1,
+      "writer": 1,
+      "receiver": 2,
       "vmailOtherParticipants": [],
       "where": 1,
       "security": 1,

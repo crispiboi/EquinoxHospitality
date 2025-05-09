@@ -6,15 +6,14 @@
   "spawnEvidence": "REF:EvidencePreset|KillerSignInLeadEvidence",
   "summaryMessageSource": "4641a6ae-c917-4656-9e5a-c18feba127f5",
   "subObjectClasses": [
-    "REF:SubObjectClassPreset|KitchenBin",
-    "REF:SubObjectClassPreset|CupboardItemKitchen"
+    "REF:SubObjectClassPreset|KitchenBin"
   ],
   "backupClasses": [
     "REF:SubObjectClassPreset|Junk",
     "REF:SubObjectClassPreset|JunkFloor"
   ],
   "attemptToStoreInFolder": "REF:EvidencePreset|Bin",
-  "folderPlacementChance": 0.5,
+  "folderPlacementChance": 0.88,
   "useSubSpawning": 1,
   "fingerprintsEnabled": true,
   "fingerprintDensity": 3,

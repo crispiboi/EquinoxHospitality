@@ -2,7 +2,7 @@
   "name": "EQCallingCard1Interactable",
   "fileType": "InteractablePreset",
   "copyFrom": "REF:InteractablePreset|BusinessCardKiller",
-  "presetName": "EQCallingCard1Interactable ",
+  "presetName": "EQCallingCard1Interactable",
   "spawnEvidence": "REF:EvidencePreset|EQCallingCard1Evidence",
   "summaryMessageSource": "faf54386-13a2-4acc-bada-8c9c39395b2c",
   "subObjectClasses": [],
@@ -15,5 +15,7 @@
   "useSubSpawning": 1,
   "fingerprintsEnabled": true,
   "fingerprintDensity": 3,
-  "enableDynamicFingerprints": true
+  "enableDynamicFingerprints": true,
+  "dontSaveWithSaveGames": false,
+  "onlySaveWithSaveGamesIfWorldObject": false
 }

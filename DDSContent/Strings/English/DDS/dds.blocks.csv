@@ -141,7 +141,7 @@
 "2bc5d9c2-a780-40c5-b7ca-480433f590a6","","|killer.nextmurder.victim.initials| (|random.number10|000 Cr)","",,"","14:30 06/05/2025"
 "7afca6aa-c9ac-4358-b75c-469874a97fe5","","HANDLER SEALED / LEVEL 3","",,"","14:30 06/05/2025"
 "2d3ecc9e-31d8-4dd5-90a9-d9d528cb7309","","LEAD ORIGIN V/2","",,"","14:34 06/05/2025"
-"d3f0a5ba-6379-4699-bf04-7047f9e4a621","","|receiver.friend.initials| |receiver.friend.home.building| - |receiver.friend.home.floor|","",,"","14:30 06/05/2025"
+"d3f0a5ba-6379-4699-bf04-7047f9e4a621","","|writer.friend.initials| |writer.friend.home.building| - |writer.friend.home.floor|","",,"","20:48 08/05/2025"
 "cd4c9409-86ae-4f45-8c21-deedbcf51e5c","","|receiver.job.employer.owner.initials| |receiver.job.employer.owner.home.building| - |receiver.job.employer.owner.home.floor|","",,"","14:30 06/05/2025"
 "7cfe654f-3af1-4a54-8f36-a9d41fc1de5b","","|receiver.faveatery.company.employee.initials| |receiver.faveatery.company.employee.home.building| - |receiver.faveatery.company.employee.home.floor|","",,"","14:33 06/05/2025"
 "02c83079-1036-4eef-a0e2-692dbd1b9676","","|receiver.landlord.enemy.initials| |receiver.landlord.enemy.home.building| - |receiver.landlord.enemy.home.floor|","",,"","14:33 06/05/2025"
@@ -179,3 +179,4 @@
 "6ff23549-10e0-4714-b8f7-ea1ad068de78","","  [ ] EXCEPTION","",,"","10:03 08/05/2025"
 "9277fd76-6fea-481f-a41b-8a2300f5a89a","","  [ ] QUIETED","",,"","10:04 08/05/2025"
 "d65e9647-3650-4596-81ed-7c4150693c42","","CURRENT ENTRY: |receiver.home.name|, |receiver.home.street| - DISPATCH","",,"","18:58 08/05/2025"
+"d78de6d5-0988-4f98-9094-178f2e29a47f","","|writer.neighbour.initials| |writer.neighbour.home.building| - |writer.neighbour.home.floor|","",,"","20:49 08/05/2025"

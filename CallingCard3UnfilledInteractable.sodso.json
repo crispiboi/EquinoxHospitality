@@ -20,5 +20,7 @@
   "useSubSpawning": 1,
   "fingerprintsEnabled": true,
   "fingerprintDensity": 3,
-  "enableDynamicFingerprints": true
+  "enableDynamicFingerprints": true,
+  "dontSaveWithSaveGames": false,
+  "onlySaveWithSaveGamesIfWorldObject": false
 }

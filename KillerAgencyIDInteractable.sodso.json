@@ -25,5 +25,7 @@
   "putDownPositions": [
     "REF:SubObjectClassPreset|TabletopItemGeneric",
     "REF:SubObjectClassPreset|CountertopItemKitchen"
-  ]
+  ],
+  "dontSaveWithSaveGames": false,
+  "onlySaveWithSaveGamesIfWorldObject": false
 }
